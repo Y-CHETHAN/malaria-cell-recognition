@@ -12,6 +12,8 @@ We have a directory with a number of images of infected cells and uninfected cel
 
 ![Neural Networks](https://user-images.githubusercontent.com/65499285/193041366-f95ff404-8ad6-497c-be7f-dc87c2e7c3a1.svg)
 
+<br><br><br><br><br>
+
 ## DESIGN STEPS
 
 ### Step 1:
