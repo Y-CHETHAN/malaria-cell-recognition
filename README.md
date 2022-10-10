@@ -195,7 +195,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/75234991/194916856-2c6b2fa5-a31d-4d28-a7f3-47174787c38b.png)
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ### Classification Report
 
