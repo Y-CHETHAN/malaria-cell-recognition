@@ -29,7 +29,7 @@ Pass the training and validation data to the model.
 ### Step 6:
 Plot the necessary graphs.
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
